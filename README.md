@@ -81,6 +81,6 @@ Let's connect! Feel free to reach out to me for collaborations, project inquirie
 
 
 ## Checkout
-[!(My Portfolio)](https://www.rownox.com)
+[!(My Portfolio)](https://www.rownox.com)]
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ravenwits&count_private=true&theme=github_dark&showicons=true)]()
