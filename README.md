@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=my+name+is+Alp;I+am+from+Turkey!)](https://git.io/typing-svg)
 
 
-
 I am a passionate content creator evolved to a **self-taught** designer and programmer hailing from the enchanting lands of Turkey 🇹🇷. With over a decade of experience in the video game industry, I've had the incredible opportunity to collaborate with diverse companies and talented individuals from all corners of the world!
 
 My journey began with an insatiable curiosity for digital arts even before stepping into college. Fast forward to today, I can recreate anything you've ever seen on TV or the vast expanse of the internet. But my quest for knowledge doesn't stop there. I am continuously honing my skills in various domains, including code writing, programming, game design, 3D modeling, social media content & marketing, digital advertisement, 3D animations, graphic & printed design, UI/UX design, VFX, videography & photography, and much more.
@@ -82,5 +81,8 @@ Let's connect! Feel free to reach out to me for collaborations, project inquirie
 
 ## Checkout
 [My Portfolio](https://www.rownox.com)
+
+
+[![GitLab](https://img.shields.io/badge/GitLab-Contributions-orange?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.dannie.com.tr/Alp)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ravenwits&count_private=true&theme=github_dark&showicons=true)]()
