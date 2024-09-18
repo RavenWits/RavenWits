@@ -23,66 +23,72 @@ Let's connect! Feel free to reach out to me for collaborations, project inquirie
 
 ## Tech I Use
 <div>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-  	<img width="32" src="https://cdn.simpleicons.org/php/777BB4" alt="php" title="php"/>
-  	<img width="32" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jquery" title="jquery"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+	<img width="32" src="https://cdn.simpleicons.org/html5" alt="HTML" title="HTML"/>
+	<img width="32" src="https://cdn.simpleicons.org/css3" alt="CSS" title="CSS"/>
+	<img width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript"/>
+	<img width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript"/>
+  	<img width="32" src="https://cdn.simpleicons.org/php" alt="php" title="php"/>
+  	<img width="32" src="https://cdn.simpleicons.org/jquery" alt="jquery" title="jquery"/>
+	<img width="32" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"/>
+	<img width="32" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
 </div>
 <div>
-  	<img width="32" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+  	<img width="32" src="https://cdn.simpleicons.org/react" alt="React" title="React"/>
   	<img width="32" src="https://cdn.simpleicons.org/nextdotjs" alt="NextJS" title="NextJS"/>
   	<img width="32" src="https://cdn.simpleicons.org/trpc/2596BE" alt="trpc" title="trpc"/>
-  	<img width="32" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/>
+  	<img width="32" src="https://cdn.simpleicons.org/googlecloud" alt="GCP" title="GCP"/>
+	<img width="32" src="https://cdn.simpleicons.org/firebase" alt="Firebase" title="Firebase"/>
+	<img width="32" src="https://cdn.simpleicons.org/wordpress" alt="Wordpress" title="Wordpress"/>
 </div>
 <div>
-  	<img width="32" src="https://cdn.simpleicons.org/recoil/3578E5" alt="Recoil" title="Recoil"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
+  	<img width="32" src="https://cdn.simpleicons.org/recoil" alt="Recoil" title="Recoil"/>
+	<img width="32" src="https://cdn.simpleicons.org/redux" alt="Redux" title="Redux"/>
 </div>
 <div>
-  	<img width="32" src="https://cdn.simpleicons.org/prisma/2D3748" alt="prisma" title="prisma"/>
-  	<img width="32" src="https://cdn.simpleicons.org/arangodb/DDE072" alt="ArangoDB" title="ArangoDB"/>
-  	<img width="32" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
+  	<img width="32" src="https://cdn.simpleicons.org/prisma" alt="prisma" title="prisma"/>
+  	<img width="32" src="https://cdn.simpleicons.org/arangodb" alt="ArangoDB" title="ArangoDB"/>
+  	<img width="32" src="https://cdn.simpleicons.org/mongodb" alt="mongoDB" title="mongoDB"/>
+	<img width="32" src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL"/>
+	<img width="32" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL"/>
+	<img width="32" src="https://cdn.simpleicons.org/graphql" alt="GraphQL" title="GraphQL"/>
 </div>
 <div>
-    <img width="32" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
+	<img width="32" src="https://cdn.simpleicons.org/tsnode" alt="ts-node" title="ts node"/>
+   	<img width="32" src="https://cdn.simpleicons.org/node.js" alt="Node.js" title="Node.js"/>
+	<img width="32" src="https://cdn.simpleicons.org/express" alt="Express" title="Express"/>
   	<img width="32" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
   	<img width="32" src="https://cdn.simpleicons.org/axios/5A29E4" alt="axios" title="axios"/>
+	<img width="32" src="https://cdn.simpleicons.org/socket.io" alt="Socket IO" title="Socket IO"/>
 </div>
 <div>
-  <img width="32" src="https://cdn.simpleicons.org/jss/#F7DF1E" alt="JSS" title="JSS"/>
-  <img width="32" src="https://cdn.simpleicons.org/framer/d2c" alt="Framer" title="Framer"/>
-	<img width="32" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-	<img width="32" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
-	<img width="32" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
+  	<img width="32" src="https://cdn.simpleicons.org/jss" alt="JSS" title="JSS"/>
+  	<img width="32" src="https://cdn.simpleicons.org/framer" alt="Framer" title="Framer"/>
+	<img width="32" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS"/>
+	<img width="32" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" title="Bootstrap"/>
+	<img width="32" src="https://cdn.simpleicons.org/sass" alt="Sass" title="Sass"/>
+	<img width="32" src="https://cdn.simpleicons.org/shadcnui" alt="Shadcn" title="Shadcn"/>
 </div>
 <div>	
-  <img width="32" src="https://cdn.simpleicons.org/openai/412991" alt="openai" title="openai"/>
- 	<img width="32" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
-  <img width="32" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" title="Photoshop"/>
-	<img width="32" src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="After Effects" title="After Effects"/>
-  <img width="32" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
-  <img width="32" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+  	<img width="32" src="https://cdn.simpleicons.org/openai" alt="openai" title="openai"/>
+ 	<img width="32" src="https://cdn.simpleicons.org/unity" alt="Unity" title="Unity"/>
+	<img width="32" src="https://cdn.simpleicons.org/unrealengine" alt="Unreal Engine" title="Unreal Engine"/>
+ 	<img width="32" src="https://cdn.simpleicons.org/adobephotoshop" alt="Photoshop" title="Photoshop"/>
+	<img width="32" src="https://cdn.simpleicons.org/adobeaftereffects" alt="After Effects" title="After Effects"/>
+  	<img width="32" src="https://cdn.simpleicons.org/figma" alt="Figma" title="Figma"/>
+  	<img width="32" src="https://cdn.simpleicons.org/neovim" alt="Neovim" title="Neovim"/>
+ 	<img width="32" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 </div>
 <div>
-  	<img width="32" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
-	  <img width="32" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/>
+  	<img width="32" src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub"/>
+	<img width="32" src="https://cdn.simpleicons.org/gitlab" alt="GitLab" title="GitLab"/>
+  	<img width="32" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker"/>
 </div>
 
 
 ## Checkout
-[My Portfolio](https://www.rownox.com)
-
-
+[![My Portfolio](https://img.shields.io/badge/my_portfolio-fbbf24?style=for-the-badge&link=https%3A%2F%2Fwww.alpsariyer.dev)](https://www.alpsariyer.dev)
+[![Linkedin](https://camo.githubusercontent.com/05a93bdb893b4febd59cb728f7284c9f3cd50528eca63bdc6d57627fe244ca5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/ravenwits/)
 [![GitLab](https://img.shields.io/badge/GitLab-Contributions-orange?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.dannie.com.tr/Alp)
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ravenwits&count_private=true&theme=github_dark&showicons=true)]()
