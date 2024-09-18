@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=my+name+is+Alp;I+am+from+Turkey!)](https://git.io/typing-svg)
 
-
 I am a passionate content creator evolved to a **self-taught** designer and programmer hailing from the enchanting lands of Turkey 🇹🇷. With over a decade of experience in the video game industry, I've had the incredible opportunity to collaborate with diverse companies and talented individuals from all corners of the world!
 
 My journey began with an insatiable curiosity for digital arts even before stepping into college. Fast forward to today, I can recreate anything you've ever seen on TV or the vast expanse of the internet. But my quest for knowledge doesn't stop there. I am continuously honing my skills in various domains, including code writing, programming, game design, 3D modeling, social media content & marketing, digital advertisement, 3D animations, graphic & printed design, UI/UX design, VFX, videography & photography, and much more.
@@ -16,9 +15,9 @@ Let's connect! Feel free to reach out to me for collaborations, project inquirie
 - 🔭 I’m currently working on a personal push to my limits project to learn futher and go deeper!
 - 🌱 I’m currently learning about [T3 stack](https://github.com/t3-oss/create-t3-app) and [React Native](https://github.com/facebook/react-native) for mobile development.
 - 💬 Ask me about anything related to web development, I love discussing about new ideas.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ravenwits/) or [Email](mailto:alp@rownox.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ravenwits/) or [Email](mailto:hi@alpsariyer.dev)
 - ⚡ Fun fact: I've started learned coding at 28 and it became my whole life. I am late because of
-  	<img width="16" src="https://cdn.simpleicons.org/dungeonsanddragons/#ED1C24" alt="DnD" title="DnD"/>
+  	<img width="20" src="https://cdn.simpleicons.org/dungeonsanddragons" alt="DnD" title="DnD" />
   
 
 ## Tech I Use
